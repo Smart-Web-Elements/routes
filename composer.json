@@ -1,5 +1,5 @@
 {
-	"name": "lms/routes",
+	"name": "swe/routes",
 	"type": "typo3-cms-extension",
 	"description": "Provides an ability to bind a route slug to the certain Extbase Action endpoint",
 	"license": "GPL-2.0-or-later",
@@ -7,6 +7,10 @@
 		{
 			"name": "Serhii Borulko",
 			"email": "borulkosergey@icloud.com"
+		},
+		{
+			"name": "Smart Web Elements",
+			"email": "team@s-w-e.com"
 		}
 	],
 	"require": {
